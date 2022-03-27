@@ -1,4 +1,4 @@
-Windows sucks, I know, but you can access a Linux zsh through wsl.
+Windows sucks, I know, but you can access a Linux bash/zsh through wsl.
 Changes:
 - ZSH
 - Oh my ZSH
